@@ -1,6 +1,13 @@
 <h1>Hi There! 👋</h1>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-senas-cristo-856950293/)](https://www.linkedin.com/in/matheus-senas-cristo-856950293/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://portfolio-tau-seven-50.vercel.app/)](https://portfolio-tau-seven-50.vercel.app/)
+<div>
+<a href="https://www.linkedin.com/in/matheus-senas-cristo-856950293/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
+<a href="https://portfolio-tau-seven-50.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white" alt="Personal Website Badge">
+</a>
+</div>
 ## My name is Matheus Senas
 (React JS | Javascript | HTML | CSS  | Tailwind ) 
 - 🎓 Computer Engineering Student @ [UFRN]
