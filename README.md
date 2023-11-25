@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white" alt="Personal Website Badge">
 </a>
 </div>
-## Meu nome é Matheus Senas
-(React JS | Javascript | HTML | CSS  | Tailwind ) 
-- 🎓 Estudante de Engenharia da Computação @ [UFRN]
+## Meu nome é Matheus Senas</br>
+- 💻 React JS | Javascript | HTML | CSS  | Tailwind  </br>
+- 🎓 Estudante de Engenharia da Computação @ [UFRN]</br>
 - 🌐 Apaixonado pelo desenvolvimento web
 
 <div align="left">
