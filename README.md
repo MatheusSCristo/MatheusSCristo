@@ -9,7 +9,7 @@
 </a>
 </div>
 ## Meu nome é Matheus Senas</br>
-- 💻 React JS | Javascript | HTML | CSS  | Tailwind  </br>
+- 💻 React JS | Javascript |Typescript| Tailwind  </br>
 - 🎓 Estudante de Engenharia da Computação @ [UFRN]</br>
 - 🌐 Apaixonado pelo desenvolvimento web
 
