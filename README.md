@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-<a href="https://portfolio-tau-seven-50.vercel.app/" target="_blank">
+<a href="https://portfolio-chi-steel-86.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white" alt="Personal Website Badge">
 </a>
 </div>
