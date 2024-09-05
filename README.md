@@ -9,7 +9,7 @@
 </a>
 </div>
 ## Meu nome é Matheus Senas</br>
-- 💻 React JS | Javascript | Typescript | Tailwind | Next | Spring Boot  </br>
+- 💻 React JS | Javascript | Typescript | Tailwind | Next | Java | Spring Boot  </br>
 - 🎓 Estudante de Tecnologia da Informação @ [UFRN]</br>
 - 🌐 Apaixonado pelo desenvolvimento web
 
