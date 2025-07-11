@@ -8,7 +8,7 @@ desenvolvimento de software. 🧑‍💻
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
 <ul align="left">
   <li> Cursando Bacharelado em Tecnologia da Informação;</li>
-  <li> Estagiando no desenvolvimento de soluções para geração de relatórios tributários detalhados voltados a prefeituras;</li>
+  <li> Trabalhando como desenvolvedor júnior no desenvolvimento de sistemas web visando soluções para geração de relatórios tributários detalhados voltados a prefeituras;</li>
   <li> Participando de um projeto de iniciação científica focado na criação de uma plataforma integrada ao SIGAA, com o objetivo de auxiliar alunos na escolha de disciplinas e apoiar a coordenação do BTI na definição da oferta de turmas;</li>
   <li> Desenvolvendo projetos pessoais e sempre em busca de aprimorar meus conhecimentos e habilidades em tecnologia.</li>
 </ul>  
